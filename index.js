@@ -23,5 +23,5 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  retune parseInt(n)}
+  retune parseInt(n)
 }
